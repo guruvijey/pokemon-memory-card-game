@@ -8,7 +8,7 @@ New things you will learn:
 3) How to lock the board so that we cant access cards when checking for two cards.
 4) How to shuffle the cards.
 
-I used the "Grid" property to create the 4X4 for cards you can use the "Flex" property also.
-IIFE- Immediately invoked function expression is used on the (shuffle function).
-Destructuring Assignment is used in resetBoard function.
-Ternary Operator is used in matchChecking.
+1) I used the "Grid" property to create the 4X4 for cards you can use the "Flex" property also.
+2) IIFE- Immediately invoked function expression is used on the (shuffle function).
+3) Destructuring Assignment is used in resetBoard function.
+4) Ternary Operator is used in matchChecking.
